@@ -2,6 +2,11 @@
 
 This is a simple to-do list app that helps you keep track of your tasks and stay organized. With this app, you can easily add and delete tasks as needed.
 
+## Technologies used
+-HTML
+-CSS
+-JavaScript
+
 ## Features
 
 - Add new tasks with a title and optional description
