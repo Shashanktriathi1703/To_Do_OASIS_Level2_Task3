@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="To-Do_List.css">
+    <link rel="icon" href="list.webp">
+</head>
+<body>
+    <div class="Container">
+        <div class="content"> 
+            <h1>To-Do List <img src="list.webp" alt="Not Available"></h1>
+            <div class="write_part"> 
+                <input type="text" placeholder="write..." id="text_area">
+                <button onclick="add_more_task()">Add More...</button>
+            </div>
+            <div class="controls">
+                <div class="filters" name="todos">
+                    <span id="all" class="active" name="all">All</span>
+                </div>
+                <button class="clear-btn" onclick="removeAll()">Clear All</button>
+            </div>
+            <ul id="list_content">
+                <!-- <li class="selected">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li> -->
+            </ul>
+        </div>
+    </div>
+    <script src="To-Do_List.js"></script>
+</body>
+</html>
