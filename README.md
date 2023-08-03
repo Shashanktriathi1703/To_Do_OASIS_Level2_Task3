@@ -29,6 +29,16 @@ To use the app, follow these steps:
 5. View all tasks, incomplete or completed tasks using the "All" menu at the top of the page.
 6. Delete all the tasks by clicking on the "Clear All" button at the top of the app.
 
+## Credits
+This To-Do list was built by `Shashank Tripathi` as a project for `OASIS Internships`.
+
+## Demo
+![TO-DO list](https://github.com/Shashanktriathi1703/To_Do_OASIS_Level2_Task3/assets/105815482/58b70590-3cac-4f6c-8756-d3eddb7c212f)
+
+## Live Demo
+[http://127.0.0.1:5500/OIBSIP/TO-Do%20List/To-Do_List.html]
+
+
 ## Contributing
 
 If you would like to contribute to the app, feel free to submit a pull request with your changes.
